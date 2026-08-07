@@ -87,6 +87,4 @@ This project implements a **4-Bit Arithmetic Logic Unit (ALU)** using **Verilog 
 
 **Ashish Shrivastava**
 
-Assistant Professor (ECE)
-
 VLSI | Verilog HDL | FPGA | Digital Design
