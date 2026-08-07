@@ -66,8 +66,6 @@ This project implements a **4-Bit Arithmetic Logic Unit (ALU)** using **Verilog 
 
 ![Power](images/Power.jpg)
 
----
-
 ## 📁 Repository Structure
 
 ```
