@@ -24,3 +24,22 @@ Design and verify a 4-bit Arithmetic Logic Unit using Verilog HDL in Xilinx Viva
 - Implementation
 - Timing Analysis
 - Power Report
+  ## Simulation Waveform
+
+![Waveform](images/waveform.png)
+
+## Synthesis
+
+![Synthesis](images/synthesis.jpg)
+
+## Implementation
+
+![Implementation](images/Implementation.jpg)
+
+## Timing Report
+
+![Timing](images/Timing.jpg)
+
+## Power Report
+
+![Power](images/Power.jpg)
