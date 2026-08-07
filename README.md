@@ -1,9 +1,13 @@
 # 4-Bit ALU using Verilog HDL
 
 ## 📌 Project Description
-This project implements a 4-Bit Arithmetic Logic Unit (ALU) using Verilog HDL in Xilinx Vivado 2024.2.
+
+This project implements a **4-Bit Arithmetic Logic Unit (ALU)** using **Verilog HDL** in **Xilinx Vivado 2024.2**.
+
+---
 
 ## ✨ Features
+
 - 4-bit Arithmetic Logic Unit
 - Addition
 - Subtraction
@@ -11,63 +15,80 @@ This project implements a 4-Bit Arithmetic Logic Unit (ALU) using Verilog HDL in
 - OR
 - XOR
 - Functional Simulation
-- Synthesis
+- RTL Synthesis
 - Implementation
 - Timing Analysis
 - Power Analysis
 
+---
+
 ## 🛠 Tools Used
+
 - Verilog HDL
 - Xilinx Vivado 2024.2
 
-## 📁 Project Files
-- alu4bit.v
-- tb_alu4bit.v
+---
 
-## 📊 Simulation Waveform
+## 📂 Project Files
+
+- `alu4bit.v`
+- `tb_alu4bit.v`
+
+---
+
+# 📊 Results
+
+## 1️⃣ Functional Simulation
 
 ![Waveform](images/waveform.png)
 
-## 🔧 Synthesis
+---
+
+## 2️⃣ RTL Synthesis
 
 ![Synthesis](images/synthesis.jpg)
 
-## 🏗 Implementation
+---
+
+## 3️⃣ Implementation
 
 ![Implementation](images/Implementation.jpg)
 
-## ⏱ Timing Report
+---
+
+## 4️⃣ Timing Report
 
 ![Timing](images/Timing.jpg)
 
-## ⚡ Power Report
+---
+
+## 5️⃣ Power Report
 
 ![Power](images/Power.jpg)
 
-## 📂 Repository Structure
+---
+
+## 📁 Repository Structure
 
 ```
 01-4bit-ALU/
 │── alu4bit.v
 │── tb_alu4bit.v
 │── README.md
-│── images/
-│   ├── waveform.png
-│   ├── synthesis.jpg
-│   ├── Implementation.jpg
-│   ├── Timing.jpg
-│   └── Power.jpg
+└── images/
+    ├── waveform.png
+    ├── synthesis.jpg
+    ├── Implementation.jpg
+    ├── Timing.jpg
+    └── Power.jpg
 ```
 
-## 🚀 Future Work
-- 8-Bit ALU
-- Multiplier
-- Divider
+---
 
 ## 👨‍💻 Author
 
 **Ashish Shrivastava**
 
-
+Assistant Professor (ECE)
 
 VLSI | Verilog HDL | FPGA | Digital Design
