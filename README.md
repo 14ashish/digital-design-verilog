@@ -1,2 +1,73 @@
-# digital-design-verilog
-A comprehensive collection of Verilog HDL implementations covering combinational and sequential circuits, FSMs, arithmetic units, and digital design projects with simulation and testbenches.
+# 4-Bit ALU using Verilog HDL
+
+## 📌 Project Description
+This project implements a 4-Bit Arithmetic Logic Unit (ALU) using Verilog HDL in Xilinx Vivado 2024.2.
+
+## ✨ Features
+- 4-bit Arithmetic Logic Unit
+- Addition
+- Subtraction
+- AND
+- OR
+- XOR
+- Functional Simulation
+- Synthesis
+- Implementation
+- Timing Analysis
+- Power Analysis
+
+## 🛠 Tools Used
+- Verilog HDL
+- Xilinx Vivado 2024.2
+
+## 📁 Project Files
+- alu4bit.v
+- tb_alu4bit.v
+
+## 📊 Simulation Waveform
+
+![Waveform](images/waveform.png)
+
+## 🔧 Synthesis
+
+![Synthesis](images/synthesis.jpg)
+
+## 🏗 Implementation
+
+![Implementation](images/Implementation.jpg)
+
+## ⏱ Timing Report
+
+![Timing](images/Timing.jpg)
+
+## ⚡ Power Report
+
+![Power](images/Power.jpg)
+
+## 📂 Repository Structure
+
+```
+01-4bit-ALU/
+│── alu4bit.v
+│── tb_alu4bit.v
+│── README.md
+│── images/
+│   ├── waveform.png
+│   ├── synthesis.jpg
+│   ├── Implementation.jpg
+│   ├── Timing.jpg
+│   └── Power.jpg
+```
+
+## 🚀 Future Work
+- 8-Bit ALU
+- Multiplier
+- Divider
+
+## 👨‍💻 Author
+
+**Ashish Shrivastava**
+
+Assistant Professor (ECE)
+
+VLSI | Verilog HDL | FPGA | Digital Design
